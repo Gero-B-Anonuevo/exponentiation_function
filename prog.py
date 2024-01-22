@@ -10,4 +10,5 @@ def exponent(base, exp):
     print("exponent = ", exp)
     end_product = base ** exp
     print(base, " raises to the power of ", exp, " is: ", end_product)
-print(exponent(base_number, exponent_number))
+    
+exponent(base_number, exponent_number)
